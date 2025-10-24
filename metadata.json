@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 3 extra Copy of GT-PILOT-INTERFACE v 2.5.1 ✨️",
+  "description": "GT Pilot is the core AI-driven interface of the GT Hub ecosystem — a smart, developer-ready workspace designed to visually render, edit, and generate applications in real-time.\nIt serves as the hands-on cockpit where traders, builders, and innovators interact directly with GT’s AI systems to design, preview, and deploy modular components for the broader GT Hub.\nFrom UI generation to live logic assembly, GT Pilot acts as the creative engine that turns natural-language ideas into fully functional app experiences — all within one sleek, GT-branded interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
